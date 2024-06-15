@@ -64,8 +64,8 @@ Download the script from the repository and run it in your Jupyter Notebook or P
 3. Interpret the results
 The Elbow Method graph will help you determine the optimal number of clusters for segmenting the customers. 📈
 
-### 🎨 Results
+🎨 Results
 After running the K-means algorithm, you'll have different customer segments. These segments can be visualized and analyzed to understand distinct customer behaviors and preferences.
 
-### 🤝 Contributing
+🤝 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue. Let's make this project better together! 🌟
