@@ -45,9 +45,9 @@ To install the necessary packages, run:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-## 🚀 Usage
+🚀 Usage
 
-### 1. Set up the environment
+1. Set up the environment
 
 First, ensure your environment is set up correctly to avoid memory leak warnings. Set the `OMP_NUM_THREADS` environment variable:
 
@@ -58,7 +58,7 @@ conda deactivate
 conda activate datascience
 
 
-## 2. Run the script
+ 2. Run the script
 Download the script from the repository and run it in your Jupyter Notebook or Python environment.
 
 3. Interpret the results
